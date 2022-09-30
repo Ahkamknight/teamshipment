@@ -1,0 +1,10 @@
+.styleNav{
+    background: gray !important;
+    
+}
+.styleNav ul li a {
+    color: red !important;
+}
+.navbar-brand{
+    color: brown;
+}
